@@ -1,6 +1,3 @@
-![1603966234125](https://user-images.githubusercontent.com/477945/134788640-ea010c86-97ab-407b-9b5b-abede1b4ce0c.jpeg)
-
-
 ## Hi, I'm Hugo 👋
 
 <a href="https://twitter.com/hugoapps" target="blank"><img src="https://img.shields.io/twitter/follow/hugoapps?logo=twitter&style=for-the-badge" alt="hugoapps" /></a> <img src="https://komarev.com/ghpvc/?username=hugoo&label=Profile%20views&color=0e75b6&style=flat" alt="hugoo" />
