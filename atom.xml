@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hugomasclet.com/</id>
+    <title>Hugo Masclet Blog</title>
+    <updated>2021-12-31T00:23:19.496Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hugomasclet.com/"/>
+    <subtitle>Hugo Masclet Blog</subtitle>
+    <icon>https://hugomasclet.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>/welcome</id>
+        <link href="https://hugomasclet.com/welcome"/>
+        <updated>2021-12-31T00:23:19.496Z</updated>
+        <summary type="html"><![CDATA[Hi welcome on my website! I'll add articles and content soon.]]></summary>
+        <content type="html"><![CDATA[<p>Hi welcome on my website! I&#x27;ll add articles and content soon.</p>]]></content>
+    </entry>
+</feed>

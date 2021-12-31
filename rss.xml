@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Hugo Masclet Blog</title>
+        <link>https://hugomasclet.com/</link>
+        <description>Hugo Masclet Blog</description>
+        <lastBuildDate>Fri, 31 Dec 2021 00:23:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://hugomasclet.com/welcome</link>
+            <guid>/welcome</guid>
+            <pubDate>Fri, 31 Dec 2021 00:23:19 GMT</pubDate>
+            <description><![CDATA[Hi welcome on my website! I'll add articles and content soon.]]></description>
+            <content:encoded><![CDATA[<p>Hi welcome on my website! I&#x27;ll add articles and content soon.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
