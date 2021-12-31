@@ -7,7 +7,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Hugo Masclet",
-  tagline: "Web3 and dev",
   url: "https://hugomasclet.com/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -27,6 +26,7 @@ const config = {
         //   editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         // },
         blog: {
+          routeBasePath: "/",
           showReadingTime: true,
           // Please change this to your repo.
           editUrl: "https://github.com/Hugoo/Hugoo/edit/main/blog/",
@@ -42,24 +42,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Home",
+        title: "Blog",
         // logo: {
         //   alt: "My Site Logo",
         //   src: "img/logo.svg",
         // },
-        items: [
-          // {
-          //   type: "doc",
-          //   docId: "intro",
-          //   position: "left",
-          //   label: "Tutorial",
-          // },
-          { to: "/blog", label: "Blog", position: "left" },
-        ],
-      },
-      footer: {
-        style: "light",
-        copyright: `Copyright © ${new Date().getFullYear()} Hugo Masclet. Built with Docusaurus.`,
+        items: [{ to: "/about", label: "About", position: "left" }],
       },
       prism: {
         theme: lightCodeTheme,
