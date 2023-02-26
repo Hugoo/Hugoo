@@ -2,6 +2,7 @@
 authors: hugo
 tags: [web3, hackathon]
 date: 2023-02-26
+description: Tips and tricks for (web3?) hackathons.
 ---
 
 # Tips and tricks for (Web3?) hackathons
