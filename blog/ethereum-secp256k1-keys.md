@@ -1,6 +1,7 @@
 ---
 title: Playing with ethereum secp256k1 keys
 authors: hugo
+date: 2022-04-08
 ---
 
 # Playing with ethereum secp256k1 keys
@@ -120,7 +121,7 @@ You can check if the hex value above matches the `pub:` value you have in the `p
 Private-Key: (256 bit)
 priv:
     00:...
-pub: 
+pub:
     04:f7:90:1e:91:61:b9:b5:3f:2e:1f:27:b0:f1:e4:
     71:1f:cc:8f:23:4a:90:f5:5f:d2:06:8a:67:b1:52:
     94:83:89:c0:ee:1e:40:f7:4a:0e:19:4e:f7:c2:b5:
@@ -147,17 +148,18 @@ f7901e9161b9b53f2e1f27b0f1e4711fcc8f234a90f55fd2068a67b152948389c0ee1e40f74a0e19
 
 It is worth noting that the public key is not formatted with the prefix (hex) 04 when the address is calculated.
 
-You need to hash the *bytes* of the public key (not the public key hex *string*).
+You need to hash the _bytes_ of the public key (not the public key hex _string_).
 
 ```js
-const pemHexWithoutHeader = 'f7901e9161b9b53f2e1f27b0f1e4711fcc8f234a90f55fd2068a67b152948389c0ee1e40f74a0e194ef7c2b59666270b16d52cf585fd8e65fc00958f78af77b0';
+const pemHexWithoutHeader =
+  "f7901e9161b9b53f2e1f27b0f1e4711fcc8f234a90f55fd2068a67b152948389c0ee1e40f74a0e194ef7c2b59666270b16d52cf585fd8e65fc00958f78af77b0";
 
-const hash = createKeccakHash('keccak256')
-    .update(Buffer.from(pemHexWithoutHeader, 'hex'))
-    .digest();
-const address = '0x' + hash.slice(-20).toString('hex');
+const hash = createKeccakHash("keccak256")
+  .update(Buffer.from(pemHexWithoutHeader, "hex"))
+  .digest();
+const address = "0x" + hash.slice(-20).toString("hex");
 
-console.log('Checksum address:', web3.utils.toChecksumAddress(address));
+console.log("Checksum address:", web3.utils.toChecksumAddress(address));
 // 0x039DC3795a6702F2B53FA0A29534Ec90B10F8d6a
 ```
 

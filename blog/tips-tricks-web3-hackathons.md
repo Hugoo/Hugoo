@@ -1,6 +1,7 @@
 ---
 authors: hugo
 tags: [web3, hackathon]
+date: 2023-02-26
 ---
 
 # Tips and tricks for (Web3?) hackathons
@@ -75,7 +76,7 @@ I find the [NextJS](https://nextjs.org/) + Vercel stack amazing to quickly setup
 
 ![A demo at ETHDenver 2022](/img/articles/demo-ethdenver-2022.webp)
 
-_A demo at [ETHDenver 2022](https://www.ethdenver.com/)._
+_A demo at [ETHDenver 2022](https://www.ethdenver.com/) 🏔🦬🦄._
 
 </div>
 
