@@ -14,6 +14,8 @@ From Lille, France currently based in Berlin.
 
 At [LUKSO](https://lukso.network/), I contribute to several projects including:
 
+- [LUKSO mainnet](https://docs.lukso.tech/networks/mainnet/parameters)
+- [LUKSO LYXe ➡️ LYX migration](https://migrate.lukso.network/)
 - [erc725.js](https://github.com/ERC725Alliance/erc725.js)
 - [lsp-factory.js](https://github.com/lukso-network/tools-lsp-factory)
 - blockchain relayer
