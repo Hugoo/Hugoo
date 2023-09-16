@@ -8,7 +8,7 @@ title: About
 
 Web3 software engineer by day and "crypto researcher" by night. I'm convinced blockchain technologies will have a profund impact on our society (work coordination, governance, money management, ownership management...). At LUKSO, we are trying to make this technology easier to use and more accessible for non technical users.
 
-From Lille, France currently based in Berlin.
+From Lille, France 🇫🇷 currently based in Berlin, Germany.
 
 ## ⛓️ LUKSO
 
@@ -18,8 +18,8 @@ At [LUKSO](https://lukso.network/), I contribute to several projects including:
 - [LUKSO LYXe ➡️ LYX migration](https://migrate.lukso.network/)
 - [erc725.js](https://github.com/ERC725Alliance/erc725.js)
 - [lsp-factory.js](https://github.com/lukso-network/tools-lsp-factory)
-- blockchain relayer
-- blockchain caching layer
+- Blockchain relayer
+- Blockchain caching layer
 - [developer relations and documentation portal](https://docs.lukso.tech/)
 - [Universal Profile](https://universalprofile.cloud/) tools
 - [LUKSO standard proposal](https://github.com/lukso-network/LIPs/tree/main/LSPs)
@@ -35,7 +35,7 @@ I was in charge of designing and building the initial version of [The Dematerial
 
 - MSc in EECS @ [CentraleSupélec](https://www.centralesupelec.fr/en)
 - MSc in Industrial and Mechanical Engineering @ [Arts et Métiers ParisTech](https://artsetmetiers.fr/en)
-- Research Assistant @ [MIT Media Lab](https://www.media.mit.edu/)
+- Research Assistant @ [MIT Media Lab](https://www.media.mit.edu/) ([Fluid Interfaces group](https://www.media.mit.edu/groups/fluid-interfaces/overview/))
 
 ## ✉️ Social
 
