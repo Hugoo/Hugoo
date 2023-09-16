@@ -46,7 +46,10 @@ const config = {
         //   alt: "My Site Logo",
         //   src: "img/logo.svg",
         // },
-        items: [{ to: "/about", label: "About", position: "left" }],
+        items: [
+          { to: "/about", label: "About", position: "left" },
+          { to: "/events", label: "Events", position: "left" },
+        ],
       },
       prism: {
         theme: themes.github,
