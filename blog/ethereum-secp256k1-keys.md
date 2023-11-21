@@ -169,8 +169,8 @@ Done :)
 
 - [^1][OID-Info - id-ecPublicKey](http://oid-info.com/get/1.2.840.10045.2.1)
 - [^2][OID-Info - secp256k1](http://oid-info.com/get/1.3.132.0.10)
-- [^3]<https://ethereum.org/en/developers/docs/accounts/#account-creation>
-- <https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html>
-- <https://tls.mbed.org/kb/cryptography/asn1-key-structures-in-der-and-pem>
+- [^3][https://ethereum.org/en/developers/docs/accounts/#account-creation](https://ethereum.org/en/developers/docs/accounts/#account-creation)
+- [https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html](https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html)
+- [https://tls.mbed.org/kb/cryptography/asn1-key-structures-in-der-and-pem](https://tls.mbed.org/kb/cryptography/asn1-key-structures-in-der-and-pem)
 - [SEC 1: Elliptic Curve Cryptography](https://www.secg.org/sec1-v2.pdf)
-- <https://gist.github.com/miguelmota/3793b160992b4ea0b616497b8e5aee2f>
+- [https://gist.github.com/miguelmota/3793b160992b4ea0b616497b8e5aee2f](https://gist.github.com/miguelmota/3793b160992b4ea0b616497b8e5aee2f)
