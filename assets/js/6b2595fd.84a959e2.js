@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhugoo=self.webpackChunkhugoo||[]).push([[484],{8258:e=>{e.exports=JSON.parse('{"label":"web3","permalink":"/tags/web-3","allTagsPath":"/tags","count":1}')}}]);
