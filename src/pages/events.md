@@ -21,6 +21,7 @@ I attended a few Web3 / Blockchain related events.
 - [DappCon](https://www.dappcon.io/) - Berlin 🇩🇪
 - [LUKSO BUILD 🆙 #1 Hackathon](https://medium.com/@lukso/lukso-build-1-hackathon-meet-the-winners-6824f744b610) - Online 🌐 - Hackathon judge 👨‍⚖️
 - [NFT.NYC](https://www.nft.nyc/) / [ETHNewYork](https://nyc.ethglobal.co/) - New York 🇺🇸 - Hackathon participant 👨‍💻
+- [Devconnect](https://devconnect.org/amsterdam) - Amsterdam 🇳🇱
 - [ETHDenver](https://www.ethdenver.com/) - Denver 🇺🇸 - Hackathon judge for the NFT track 👨‍⚖️
 
 ## 2021
