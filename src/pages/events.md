@@ -8,6 +8,7 @@ I attended a few Web3 / Blockchain related events.
 
 ## 2023
 
+- [Devconnect](https://devconnect.org/) - Istanbul 🇹🇷
 - [DappCon](https://www.dappcon.io/) - Berlin 🇩🇪
 - [ETHWarsaw](https://www.ethwarsaw.dev/) - Warsaw 🇵🇱 - Speaker 🗣️
 - [EthCC](https://www.ethcc.io/) - Paris 🇫🇷
