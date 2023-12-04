@@ -10,7 +10,7 @@ I attended a few Web3 / Blockchain related events.
 
 - [Devconnect](https://devconnect.org/) - Istanbul 🇹🇷
 - [DappCon](https://www.dappcon.io/) - Berlin 🇩🇪
-- [ETHWarsaw](https://www.ethwarsaw.dev/) - Warsaw 🇵🇱 - Speaker 🗣️
+- [ETHWarsaw](https://www.ethwarsaw.dev/) - Warsaw 🇵🇱 - [Speaker](https://www.youtube.com/watch?v=rzYT1_p2Mqk) 🗣️
 - [EthCC](https://www.ethcc.io/) - Paris 🇫🇷
 - [Zuzalu](https://zuzalu.city/) - Montenegro 🇲🇪
 - [ETHDenver](https://www.ethdenver.com/) - Denver 🇺🇸 - Hackathon mentor 👨‍🏫
