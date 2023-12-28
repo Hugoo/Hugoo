@@ -8,6 +8,7 @@ I attended a few Web3 / Blockchain related events.
 
 ## 2023
 
+- [LUKSO BUILD 🆙 #2 Hackathon](https://medium.com/lukso/buildup-2-hackathon-winners-0f784793bc43) - Online 🌐 - Hackathon judge 👨‍⚖️
 - [Devconnect](https://devconnect.org/) - Istanbul 🇹🇷
 - [DappCon](https://www.dappcon.io/) - Berlin 🇩🇪
 - [ETHWarsaw](https://www.ethwarsaw.dev/) - Warsaw 🇵🇱 - [Speaker](https://www.youtube.com/watch?v=rzYT1_p2Mqk) 🗣️
