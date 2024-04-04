@@ -1236,7 +1236,7 @@
     "@docsearch/css" "3.6.0"
     algoliasearch "^4.19.1"
 
-"@docusaurus/core@3.2.1", "@docusaurus/core@^3.0.1":
+"@docusaurus/core@3.2.1", "@docusaurus/core@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-3.2.1.tgz#e9216f9f642b2139541e21f9eebbdb11e12f66da"
   integrity sha512-ZeMAqNvy0eBv2dThEeMuNzzuu+4thqMQakhxsgT5s02A8LqRcdkg+rbcnuNqUIpekQ4GRx3+M5nj0ODJhBXo9w==
@@ -1360,7 +1360,7 @@
     vfile "^6.0.1"
     webpack "^5.88.1"
 
-"@docusaurus/module-type-aliases@3.2.1", "@docusaurus/module-type-aliases@^3.0.1":
+"@docusaurus/module-type-aliases@3.2.1", "@docusaurus/module-type-aliases@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/module-type-aliases/-/module-type-aliases-3.2.1.tgz#fa8fd746890825b4301db2ddbe29d7cfbeee0380"
   integrity sha512-FyViV5TqhL1vsM7eh29nJ5NtbRE6Ra6LP1PDcPvhwPSlA7eiWGRKAn3jWwMUcmjkos5SYY+sr0/feCdbM3eQHQ==
@@ -1374,7 +1374,7 @@
     react-helmet-async "*"
     react-loadable "npm:@docusaurus/react-loadable@5.5.2"
 
-"@docusaurus/plugin-content-blog@3.2.1", "@docusaurus/plugin-content-blog@^3.0.1":
+"@docusaurus/plugin-content-blog@3.2.1", "@docusaurus/plugin-content-blog@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-blog/-/plugin-content-blog-3.2.1.tgz#1b28c45102abc4be1a57caba76672c5ccdacce63"
   integrity sha512-lOx0JfhlGZoZu6pEJfeEpSISZR5dQbJGGvb42IP13G5YThNHhG9R9uoWuo4IOimPqBC7sHThdLA3VLevk61Fsw==
@@ -1491,7 +1491,7 @@
     sitemap "^7.1.1"
     tslib "^2.6.0"
 
-"@docusaurus/preset-classic@^3.0.1":
+"@docusaurus/preset-classic@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/preset-classic/-/preset-classic-3.2.1.tgz#25a18ebaf271ec91ab7430a76a9054f101593de1"
   integrity sha512-E3OHSmttpEBcSMhfPBq3EJMBxZBM01W1rnaCUTXy9EHvkmB5AwgTfW1PwGAybPAX579ntE03R+2zmXdizWfKnQ==
@@ -1600,7 +1600,7 @@
     fs-extra "^11.1.1"
     tslib "^2.6.0"
 
-"@docusaurus/tsconfig@^3.0.1":
+"@docusaurus/tsconfig@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/tsconfig/-/tsconfig-3.2.1.tgz#6bdc0cb46414d09c7334d632b6d5e5472e6eb5a7"
   integrity sha512-+biUwtsYW3oChLxYezzA+NIgS3Q9KDRl7add/YT54RXs9Q4rKInebxdHdG6JFs5BaTg45gyjDu0rvNVcGeHODg==
