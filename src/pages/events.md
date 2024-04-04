@@ -6,6 +6,10 @@ title: Events
 
 I attended a few Web3 / Blockchain related events.
 
+## 2024
+
+- [ETHDenver](https://www.ethdenver.com/) - Denver 🇺🇸 - Hackathon track judge 👨‍🏫
+
 ## 2023
 
 - [LUKSO BUILD 🆙 #2 Hackathon](https://medium.com/lukso/buildup-2-hackathon-winners-0f784793bc43) - Online 🌐 - Hackathon judge 👨‍⚖️
