@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhugoo=self.webpackChunkhugoo||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Tips and tricks for (Web3?) hackathons","permalink":"/tips-tricks-web3-hackathons","unlisted":false},{"title":"Playing with ethereum secp256k1 keys","permalink":"/ethereum-secp256k1-keys","unlisted":false}]}')}}]);
