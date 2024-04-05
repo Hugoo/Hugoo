@@ -106,7 +106,7 @@ On smart blockchain explorers which can decode these transactions properly, such
 
 ![The tx as seen on Txs.app](/img/articles/txs-app-decode.png)
 
-_The tx has seen on [Txs.app](https://txs.app/tx/0x44a1b14dc0c3baca32e24161dbd783acab1e8e189040cd0399eeea30cb3cb917)._
+_The tx as seen on [Txs.app](https://txs.app/tx/0x44a1b14dc0c3baca32e24161dbd783acab1e8e189040cd0399eeea30cb3cb917)._
 
 </div>
 
