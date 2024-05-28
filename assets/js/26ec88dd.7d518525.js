@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhugoo=self.webpackChunkhugoo||[]).push([[479],{2576:a=>{a.exports=JSON.parse('{"tag":{"label":"lukso","permalink":"/tags/lukso","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/lukso","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

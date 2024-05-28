@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhugoo=self.webpackChunkhugoo||[]).push([[222],{8010:a=>{a.exports=JSON.parse('{"tag":{"label":"web3","permalink":"/tags/web-3","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/web-3","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

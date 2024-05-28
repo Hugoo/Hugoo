@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhugoo=self.webpackChunkhugoo||[]).push([[994],{7013:s=>{s.exports=JSON.parse('{"label":"lukso","permalink":"/tags/lukso","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

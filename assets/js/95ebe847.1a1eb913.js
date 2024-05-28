@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhugoo=self.webpackChunkhugoo||[]).push([[476],{1086:a=>{a.exports=JSON.parse('{"tag":{"label":"hackathon","permalink":"/tags/hackathon","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/hackathon","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
