@@ -4,10 +4,12 @@ title: Events
 
 # Events
 
-I attended a few Web3 / Blockchain related events.
+I attended a few Web3 / Blockchain related events. Check my [POAPs collection](https://collectors.poap.xyz/scan/hugom.eth).
 
 ## 2024
 
+- [ETHBerlin](https://ethberlin.org/) - Berlin 🇩🇪 - Hackathon participant 👨‍💻
+- [Safe\{CON\}2](https://conf.safe.global/) - Berlin 🇩🇪 - Workshop 👨‍🏫
 - [ETHDenver](https://www.ethdenver.com/) - Denver 🇺🇸 - Hackathon track judge 👨‍🏫
 
 ## 2023
