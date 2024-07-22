@@ -8,6 +8,7 @@ I attended a few Web3 / Blockchain related events. Check my [POAPs collection](h
 
 ## 2024
 
+- [ETHBrussels](https://ethglobal.com/events/brussels) - Hackathon participant 👨‍💻
 - [EthCC](https://ethcc.io/) - Brussels 🇧🇪
 - [ETHPrague](https://ethprague.com/) - Prague 🇨🇿 - Hackathon participant 👨‍💻
 - [ETHBerlin](https://ethberlin.org/) - Berlin 🇩🇪 - Hackathon participant 👨‍💻
