@@ -8,6 +8,11 @@ I attended a few Web3 / Blockchain related events. Check my [POAPs collection](h
 
 ## 2024
 
+- [DEVCON 7](https://devcon.org/) - Bangkok 🇹🇭
+- [Token2049](https://www.asia.token2049.com/) - Singapore 🇸🇬
+- [Korean Blockchain Week](https://koreablockchainweek.com/) - Seoul 🇰🇷
+- [ETHTokyo](https://www.ethtokyo.com/) - Tokyo 🇯🇵
+- [DAO Tokyo](https://dao-tokyo.xyz/) - Tokyo 🇯🇵 - Panelist 🎙️
 - [ETHBrussels](https://ethglobal.com/events/brussels) - Hackathon participant 👨‍💻
 - [EthCC](https://ethcc.io/) - Brussels 🇧🇪
 - [ETHPrague](https://ethprague.com/) - Prague 🇨🇿 - Hackathon participant 👨‍💻
