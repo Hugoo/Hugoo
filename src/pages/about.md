@@ -10,9 +10,15 @@ Web3 software engineer by day and "crypto researcher" by night. I'm convinced bl
 
 From Lille, France 🇫🇷 currently based in Berlin, Germany.
 
+## 🌐 0x1337 Partners
+
+I founded [0x1337 Partners](https://0x1337.partners/) to offer strategic advisory services to Web3 companies / Foundations, while also conducting in-depth protocol research across the blockchain ecosystem.
+
+Don't hesitate to reach me if you want to work together.
+
 ## ⛓️ LUKSO
 
-At [LUKSO](https://lukso.network/), I contribute to several projects including:
+At [LUKSO](https://lukso.network/), I contributed to several projects including:
 
 - [LUKSO mainnet](https://docs.lukso.tech/networks/mainnet/parameters)
 - [LUKSO LYXe ➡️ LYX migration](https://migrate.lukso.network/)
