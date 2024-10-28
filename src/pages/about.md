@@ -6,9 +6,9 @@ title: About
 
 ## 👋 About
 
-Web3 software engineer by day and "crypto researcher" by night. I'm convinced blockchain technologies will have a profund impact on our society (work coordination, governance, money management, ownership management...). At LUKSO, we are trying to make this technology easier to use and more accessible for non technical users.
+Web3 software engineer by day and "crypto researcher" by night. I'm convinced blockchain technologies will have a profund impact on our society (work coordination, governance, money management, ownership management...).
 
-From Lille, France 🇫🇷 currently based in Berlin, Germany.
+From Lille, France 🇫🇷 currently based in Berlin, Germany 🇩🇪.
 
 ## 🌐 0x1337 Partners
 
